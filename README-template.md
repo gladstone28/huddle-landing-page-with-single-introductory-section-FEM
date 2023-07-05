@@ -71,7 +71,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 ### Useful resources
 
 - [Example resource 1](https://getfireshot.com/) - This is for full scale screen shots. I really liked this utility and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Example resource 2](https://www.joshwcomeau.com/css/custom-css-reset/) - My Custom CSS Reset by Josh Comeau.
 
 ## Author
 
